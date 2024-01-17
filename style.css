@@ -1,0 +1,10 @@
+    .testing {
+        display: flex;
+        justify-content: center;
+        gap: 100px;
+    }
+
+    .center{
+        display: flex;
+        justify-content: center;
+    }
